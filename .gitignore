@@ -1,0 +1,18 @@
+# Archivos temporales
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Datos
+data/
+*.pdf
+
+# Resultados
+results/
+*.json
+*.csv
+*.png
+
+# Archivos del sistema y entornos
+.env
+.DS_Store
